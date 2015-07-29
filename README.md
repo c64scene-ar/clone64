@@ -1,3 +1,3 @@
-# clon64
+# clone64
 
 ohhhh yeahhhhhhhhhhh!!!
