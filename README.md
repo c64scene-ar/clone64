@@ -1,3 +1,3 @@
 # clone64
 
-ohhhh yeahhhhhhhhhhh!!!
+## C64 revision B clone (for fun and no profit)
