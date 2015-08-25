@@ -1,0 +1,16 @@
+Parts not present
+-----------------
+
+C89 
+C95
+C103
+
+Not connected (left side)
+-------------------------
+UNREG +9
+CAN +5
+
+Not connected (modulator)
+-------------------------
+lower left pin
+
