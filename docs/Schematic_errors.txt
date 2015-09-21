@@ -1,0 +1,1 @@
+- The U13 (OE pin15-pin16 mixed) mistake mentioned here: http://www.lemon64.com/forum/viewtopic.php?t=35552 its fixed in our version
